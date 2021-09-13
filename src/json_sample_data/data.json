@@ -1,0 +1,26 @@
+{
+	"users": [{
+	  "user_id": "1",
+	  "user_name": "Test User",
+	  "password": "1234"
+	}, {
+	  "user_id": "2",
+	  "user_name": "Other test user",
+	  "password": "5678"
+	}],
+	"words": [{
+	 "user_id": "1",
+	 "title": "Some title",
+	 "definition": "This is a definition somehow",
+	 "language": "English",
+	 "created":  "timestamped"
+	 },
+	 {
+		"user_id": "2",
+		"title": "Second Some title",
+		"definition": "Second This is a definition somehow",
+		"language": "French",
+		"created":  "timestamped"
+	 }
+	]
+  }
