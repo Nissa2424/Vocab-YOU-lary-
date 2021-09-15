@@ -20,7 +20,10 @@
  - [Netlify Deployment]()
 
 ## Project board
-- [Link to Vocab-YOU-lary Project Board](https://github.com/Nissa2424/Vocab-YOU-lary-)..
+- [Link to Vocab-YOU-lary Project Board](https://github.com/Nissa2424/Vocab-YOU-lary-)
+
+##Loom Video 
+- [ShortVideo](https://www.loom.com/share/6dd8d810c2a04778b54f26fc0386a685)
 
 ------------------------------------------------------------------------------
 # Webpack Intro
