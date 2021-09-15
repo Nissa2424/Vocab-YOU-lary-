@@ -1,3 +1,28 @@
+# Name of Project: Vocab-You-lary Project
+
+![VocabYoulary image](https://cdn2.hubspot.net/hubfs/3377481/Blog/Professional%20Learning/The%20Importance%20of%20Vocabulary%20Instruction%20in%20Social%20Studies/The-Importance-of-Vocabulary-Instruction-in-Social-Studies-0L.jpg
+)
+
+## Overview of the project: 
+ - This is NOT A TEST. We are not looking for 100% completion, although if you can make it work completely, then wahoo!
+
+- What we are looking for is effort, critical thinking about the concepts, creative thinking to bind the concepts together for a solution, and collaboration with your teammates and instruction team.
+
+- If you only get 50% of it complete, but display the above Core Skills and can demonstrate understanding of the fundamental code concepts, then you are learning and growing - which is what we care about.
+
+## dbdiagram 
+- [VOcab-YOU-lary wireframe](https://dbdiagram.io/d/613faf4c825b5b01460045a1.png)
+
+## Wireframe
+- [VOcab-YOU-lary wireframe](https://docs.google.com/presentation/d/1LvAtJbGJLXdzQ5BUPb1-VKv8eVM2ge5U38RABk7OGr4/edit#slide=id.p.png)
+
+## Link to the deployed project 
+ - [Netlify Deployment]()
+
+## Project board
+- [Link to Vocab-YOU-lary Project Board](https://github.com/Nissa2424/Vocab-YOU-lary-)..
+
+------------------------------------------------------------------------------
 # Webpack Intro
 
 [See Live Demo of this Template](https://webpack-5-template.netlify.app)
